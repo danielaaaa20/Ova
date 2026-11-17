@@ -26,7 +26,7 @@ https://danielaaaa20.github.io/Ova/
 Ficha técnica
 
 La ficha técnica completa del OVA se adjunta en formato PDF dentro del repositorio.
-
+[📄 Ver ficha técnica del OVA](Ficha%20Tecnica%20Daniela%20Pedroza.pdf)
 Tecnologías utilizadas
 
 * HTML
